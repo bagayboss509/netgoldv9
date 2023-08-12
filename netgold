@@ -270,7 +270,7 @@ height: 240px;
 
 
 <!--butonlar-->
-<button class="w3-button w3-black w3-round-xxlarge" onclick="carousel(-1)"><i class="fa fa-angle-double-left"></i></button>
+<button class="w3-btn w3-round-xxlarge" onclick="carousel(-1)"><i class="fa fa-angle-double-left"></i></button>
 <button class="button w3-display-right" onclick="carousel(1)"><i class="fa fa-angle-double-right"></i></button>
 </div>
 <br>
