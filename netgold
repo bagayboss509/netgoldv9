@@ -271,7 +271,7 @@ height: 240px;
 
 <!--butonlar-->
 <button class='btn btn-default' type='submit' value='submit'>
-    <i class='fa fa-save'> </i> Save
+    <i class='fa fa-tv'> </i> CANLI KANALLAR
 </button>
 <button class="w3-button w3-black w3-round-xxlarge"></button>
 </div>
