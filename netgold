@@ -267,12 +267,14 @@ height: 240px;
 <img class="mySlides w3-animate-fading" src="https://blutv-images.mncdn.com/q/t/i/bluv2/80/510x280/5f93f3fd866ac314342e79cf" style="width:100%">
 
 
-
+<div id="episodes">
+<section id="kanallar">
+<a href="#kanallar">
 
 <!--butonlar-->
 <button class='btn btn-default' type='submit' value='submit'>
     <i class='fa fa-tv'> </i> CANLI KANALLAR
-</button>
+</button></i></a>
 
 </div>
 <br>
