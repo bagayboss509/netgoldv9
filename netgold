@@ -278,10 +278,7 @@ height: 240px;
 <div id="episodes">
 <section id="kanallar">
 <a href="#kanallar"> 
-<button class="w3-round-xxlarge w3-button 
-            w3-ripple w3-large w3-purple">
-            CANLI KANALLAR
-        </button><i class="fa fa-tv"></i> <i class="fa fa-skrrt"></i></a>
+<button class="w3-btn w3-round-xxlarge">CANLI KANALLAR</button><i class="fa fa-tv"></i> <i class="fa fa-skrrt"></i></a>
 <div class="episode"><a href="go:ulusal1">
 <i class="fa fa-university"></i> Ulusal Kanallar </a>
 <a href="go:sporkanal">
