@@ -200,7 +200,7 @@ height: 240px;
   display: inline-block;
   text-decoration: none;
   background: #BD292C;
-  border-radius: 3px;
+  border-radius: 50px;
   color: #FFF;
   overflow: hidden;
   padding: 1em 3em;
@@ -267,24 +267,18 @@ height: 240px;
 <img class="mySlides w3-animate-fading" src="https://blutv-images.mncdn.com/q/t/i/bluv2/80/510x280/5f93f3fd866ac314342e79cf" style="width:100%">
 
 
-<div id="episodes">
-<section id="kanallar">
-<a href="#kanallar">
+
 
 <!--butonlar-->
-<button class='btn btn-default' type='submit' value='submit'>
-    <i class='fa fa-tv'> </i> CANLI KANALLAR
-</button></i></a>
-
+<button class="button w3-display-left" onclick="carousel(-1)"><i class="fa fa-angle-double-left"></i></button>
+<button class="button w3-display-right" onclick="carousel(1)"><i class="fa fa-angle-double-right"></i></button>
 </div>
 <br>
 
 <div id="episodes">
 <section id="kanallar">
 <a href="#kanallar"> 
-<button class='btn btn-default' type='submit' value='submit'>
-    <i class='fa fa-tv'> </i> CANLI KANALLAR
-</button></i></a>
+<i class="fa fa-tv"></i> CANLI KANALLAR<i class="fa fa-skrrt"></i></a>
 <div class="episode"><a href="go:ulusal1">
 <i class="fa fa-university"></i> Ulusal Kanallar </a>
 <a href="go:sporkanal">
