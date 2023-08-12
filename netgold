@@ -270,15 +270,15 @@ height: 240px;
 
 
 <!--butonlar-->
-<button class="button w3-display-left" onclick="carousel(-1)"><i class="fa fa-angle-double-left"></i></button>
-<button class="button w3-display-right" onclick="carousel(1)"><i class="fa fa-angle-double-right"></i></button>
+<button class="w3-button w3-black w3-round-xxlarge"></button>
+<button class="w3-button w3-black w3-round-xxlarge"></button>
 </div>
 <br>
 
 <div id="episodes">
 <section id="kanallar">
 <a href="#kanallar"> 
-<button class="w3-btn w3-round-xxlarge">CANLI KANALLAR</button><i class="fa fa-tv"></i> <i class="fa fa-skrrt"></i></a>
+<i class="fa fa-tv"></i> CANLI KANALLAR<i class="fa fa-skrrt"></i></a>
 <div class="episode"><a href="go:ulusal1">
 <i class="fa fa-university"></i> Ulusal Kanallar </a>
 <a href="go:sporkanal">
