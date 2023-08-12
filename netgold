@@ -282,11 +282,11 @@ height: 240px;
 <div class="episode"><a href="go:ulusal1">
 <i class="fa fa-university"></i> Ulusal Kanallar </a>
 <a href="go:sporkanal">
-<i class="fa fa-soccer-ball-o"></i> Spor Kanallar</a>
+<i class="fa fa-soccer-ball-o"></i> Spor Kanalları</a>
 <a href="go:belgesel">
-<i class="fa fa-paw"></i> Belgesel Kanallar</a>
+<i class="fa fa-paw"></i> Belgesel Kanalları</a>
 <a href="go:sinema2">
-<i class="fa fa-film"></i> Sinema Kanallar</a>
+<i class="fa fa-film"></i> Sinema Kanalları</a>
 <a href="go:cocukk1">
 <i class="fa fa-play-circle"></i> Çocuk Kanalları</a>
 
@@ -294,12 +294,12 @@ height: 240px;
 </div>
 </section>
 
-<!----Şubatları bi ayırın amk bune :D---->
+<!----Şunları bi ayırın amk bune :D---->
 <section id="blutvy">
-<a href="go:bluweb"><i class="fa fa-play-circle"></i> BLUTV Ä°Ã‡ERÄ°KLERÄ°</a>
+<a href="go:bluweb"><i class="fa fa-play-circle"></i> BLUTV İÇERİKLERİ</a>
 <div class="episode">
 <a href="##">
-<i class="fa fa-youtube-play"></i> BLU TV Ä°ZLE</a>
+<i class="fa fa-youtube-play"></i> BLU TV İZLE</a>
 
 
 
@@ -308,10 +308,10 @@ height: 240px;
 
 
 <section id="exxen11">
-<a href="go:exxen22"><i class="fa fa-play-circle"></i> EXXEN Ä°Ã‡ERÄ°KLERÄ° </a>
+<a href="go:exxen22"><i class="fa fa-play-circle"></i> EXXEN İÇERİKLERİ </a>
 <div class="episode">
 <a href="##">
-<i class="fa fa-youtube-play"></i> EXXEN Ä°ZLE</a>
+<i class="fa fa-youtube-play"></i> EXXEN İZLE</a>
 
 
 </div>
@@ -320,10 +320,10 @@ height: 240px;
 
 
 <section id="netfli1">
-<a href="go:netflix2"><i class="fa fa-play-circle"></i>NETFLÄ°X Ä°Ã‡ERÄ°KLERÄ°</a>
+<a href="go:netflix2"><i class="fa fa-play-circle"></i>NETFLİX İÇERİKLERİ</a>
 <div class="episode">
 <a href="##">
-<i class="fa fa-youtube-play"></i> NETFLÄ°X Ä°ZLE</a>
+<i class="fa fa-youtube-play"></i> NETFLİX İZLE</a>
 
 
 
@@ -334,10 +334,10 @@ height: 240px;
 </section>
 
 <section id="disney1">
-<a href="go:disney2"><i class="fa fa-play-circle"></i>DÄ°SNEY PLUS</a>
+<a href="go:disney2"><i class="fa fa-play-circle"></i>DİSNEY PLUS</a>
 <div class="episode">
 <a href="##">
-<i class="fa fa-youtube-play"></i> DÄ°SNEY Ä°ZLE</a>
+<i class="fa fa-youtube-play"></i> DİSNEY İZLE</a>
 
 
 
@@ -346,14 +346,14 @@ height: 240px;
 </section>
 
 <section id="bbcon">
-<a href="go:bbdizi"><i class="fa fa-play-circle"></i> BEÄ°N CONNECT</a>
+<a href="go:bbdizi"><i class="fa fa-play-circle"></i> BEİN CONNECT</a>
 <div class="episode">
 
 </div>
 </section>
 
 <section id="gainy">
-<a href="go:gaine"><i class="fa fa-play-circle"></i> GAÄ°N TV</a>
+<a href="go:gaine"><i class="fa fa-play-circle"></i> GAİN TV</a>
 <div class="episode">
 
 </div>
@@ -362,7 +362,7 @@ height: 240px;
 
 
 <section id="exxen1">
-<a href="#exxen1"><i class="fa fa-play-circle"></i> PREMÄ°UM DÄ°ZÄ° FÄ°LM</a>
+<a href="#exxen1"><i class="fa fa-play-circle"></i> PREMİUM DİZİ FİLM</a>
 <div class="episode">
 <a href="go:dizillapre">
 <i class="fa fa-flash"></i>PANEL 1</a>
@@ -382,14 +382,14 @@ height: 240px;
 
 <section id="filmler">
 <a href="#filmler"><i class="fa fa-play-circle"></i>
- DÄ°ZÄ°LER </a>
+ DİZİLER </a>
 <div class="episode">
 <a href="go:paneller">
 <i class="fa fa-youtube-play"></i> Yerli Diziler</a>
 <a href="go:predizi1">
 <i class="fa fa-flash"></i> Premium Diziler</a>
 <a href="go:yyd1">
-<i class="fa fa-youtube-play"></i>Yerli YabancÄ± Diziler</a>
+<i class="fa fa-youtube-play"></i>Yerli Yabancı Diziler</a>
 <a href="go:ooi1">
 <i class="fa fa-youtube-play"></i>Amazon Prime</a>
 <a href="go:animedizi1">
@@ -397,19 +397,19 @@ height: 240px;
 <a href="go:efsanedizi">
 <i class="fa fa-flash"></i> Efsane Diziler</a>
 <a href="go:dizilla">
-<i class="fa fa-flash"></i>Son Eklenen BÃ¶lÃ¼mler</a>
+<i class="fa fa-flash"></i>Son Eklenen Bölümler</a>
 </div>
 </section>
 
 
 <section id="diziler">
-<a href="#diziler"><i class="fa fa-film"></i>        FÄ°LMLER </a>
+<a href="#diziler"><i class="fa fa-film"></i>        FİLMLER </a>
 <div class="episode"><a href="go:eif1"><i class="fa fa-map"></i>
- En Ã‡ok Ä°zlenen Filmler</a>
+ En Çok İzlenen Filmler</a>
 <a href="go:vipfilmler">
-<i class="fa fa-globe"></i> VÄ°P FÄ°LMLER</a>
+<i class="fa fa-globe"></i> VİP FİLMLER</a>
 <a href="go:imdf">
-<i class="fa fa-globe"></i> Ä°md YÃ¼ksek PuanlÄ± Filmler</a>
+<i class="fa fa-globe"></i> İmd Yüksek Puanlı Filmler</a>
 <a href="go:hintf">
 <i class="fa fa-trophy"></i> Hint Filmler</a>
 <a href="go:yerlifilm1">
@@ -428,18 +428,18 @@ height: 240px;
 
 
 <section id="extra">
-<a href="#extra"><i class="fa fa-bars" aria-hidden="true"></i>  EXTRA Ä°Ã‡ERÄ°K</a>
+<a href="#extra"><i class="fa fa-bars" aria-hidden="true"></i>  EXTRA İÇERİK</a>
 <div class="episode">
 <a href="go:yetiskin">
- <i class="fa fa-user-secret" aria-hidden="true"></i> YetiÅŸkin</a>
+ <i class="fa fa-user-secret" aria-hidden="true"></i> Yetişkin</a>
 <a href="go:radyoc">
  <i class="fa fa-user-secret" aria-hidden="true"></i>Radyo</a>
 <a href="go:kmuzik">
- <i class="fa fa-user" aria-hidden="true"></i> KarÄ±ÅŸÄ±k MÃ¼zikler</a>
+ <i class="fa fa-user" aria-hidden="true"></i> Karışık Müzikler</a>
 <a href="go:minigame">
  <i class="fa fa-user" aria-hidden="true"></i> Oyun Oyna</a>
 <a href="go:iletisim">
- <i class="fa fa-user" aria-hidden="true"></i> Bize UlaÅŸ</a>
+ <i class="fa fa-user" aria-hidden="true"></i> Bize Ulaş</a>
 </div>
 </section>
 
@@ -471,7 +471,7 @@ document.onmouseup=reEnable
 <!--  
 // please keep these lines on when you copy the source  
 // made by: Yenile - http://yenile.org  
-var mymessage = " SaÄŸ TuÅŸ Ä°ÅŸlemez :) ";  
+var mymessage = " Sağ Tuş İşlemez :) ";  
 function rtclickcheck(keyp){  
 if (navigator.appName == "Netscape" && keyp.which == 3) {  
 alert(mymessage);  
