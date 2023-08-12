@@ -439,7 +439,7 @@ height: 240px;
 <a href="go:minigame">
  <i class="fa fa-user" aria-hidden="true"></i> Oyun Oyna</a>
 <a href="go:iletisim">
- <i class="fa fa-user" aria-hidden="true"></i> Bize Ulaş</a>
+ <i class="fa fa-telegram" aria-hidden="true"></i> Bize Ulaş</a>
 </div>
 </section>
 
